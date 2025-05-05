@@ -1,2 +1,2 @@
 # blinds-automator
-showcasing blind controller project currently in development
+Showcasing my blind controller project currently in development...
